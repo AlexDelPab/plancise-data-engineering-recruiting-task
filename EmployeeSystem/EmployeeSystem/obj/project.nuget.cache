@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vf3KYnRpEq4TULNI9MolpwU0it/2RcBUmKTnVfjgKMC40lR1X54p5rGHYktOs3JdaoCFRi6WOGP2oegE7nYO6Q==",
+  "success": true,
+  "projectFilePath": "/Users/alexanderpabinger/Projects/plancise-data-engineering-recruiting-task/EmployeeSystem/EmployeeSystem/EmployeeSystem.csproj",
+  "expectedPackageFiles": [
+    "/Users/alexanderpabinger/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/alexanderpabinger/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/alexanderpabinger/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/Users/alexanderpabinger/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/Users/alexanderpabinger/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/Users/alexanderpabinger/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,4 +1,5 @@
 using System.Collections.Immutable;
+using System.Security.Cryptography;
 using System.Text.Json;
 using Microsoft.AspNetCore.Mvc;
 
@@ -16,6 +17,7 @@ public class EmployeesController : ControllerBase
     }
 
     [HttpGet]
+    [Produces("application/json")]
     public ImmutableArray<Employee>? Get()
     {
         List<Employee>? employees;

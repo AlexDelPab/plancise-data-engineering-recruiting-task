@@ -1,0 +1,4 @@
+docker pull mcr.microsoft.com/azure-sql-edge:latest
+docker run --cap-add SYS_PTRACE -e 'ACCEPT_EULA=1' -e 'MSSQL_SA_PASSWORD=Pass@Word' -p 1435:1433 --name sqledge-order -d mcr.microsoft.com/azure-sql-edge;
+dotnet run --project OrderSystem/OrderSystem.ConsoleApp
+dotnet run --project EmployeeSystem/EmployeeSystem
